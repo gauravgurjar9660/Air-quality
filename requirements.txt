@@ -1,7 +1,7 @@
-matplotlib.pyplot
+matplotlib
 scikit-learn
 seaborn
 numpy
 pandas
-os
+
 joblib
